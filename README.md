@@ -1,4 +1,4 @@
-
+![Untitled design](https://github.com/user-attachments/assets/a03288cf-2c17-453a-a451-9c44a7dabff1)
 <h1 align="center">Hi 👋, I'm Vikram Gupta</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
