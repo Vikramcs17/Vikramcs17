@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **Vikram.guptacs17@gmail.com**
 
+- ⚡Fun Fact *"When I'm not dominating in BGMI or Valorant, you can catch me watching cricket, hitting the gym, watching anime, or trying my luck at gambling. My life’s a mix of strategy, strength, and some calculated risks!"*
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vikram-gupta-165152301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikram-gupta-165152301/" height="30" width="40" /></a>
