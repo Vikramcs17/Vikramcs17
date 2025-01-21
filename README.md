@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **InsightLedger**
 
-- 🌱 I’m currently learning **React Native ,Node.Js**
+- 🌱 I’m currently learning **MongoDB **
 
 - 💬 Ask me about **Gaming and Cricket**
 
