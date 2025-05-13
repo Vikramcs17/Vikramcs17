@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **InsightLedger**
+- 🔭 I’m currently working on **ZaykaGenius**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Backend **
 
-- 💬 Ask me about **Gaming and Cricket**
+- 💬 Ask me about **Tech, Gaming and Cricket**
 
 - 📫 How to reach me **Vikram.guptacs17@gmail.com**
 
