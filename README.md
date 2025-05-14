@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ZaykaGenius**
 
-- 🌱 I’m currently learning **Backend **
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Tech, Gaming and Cricket**
 
