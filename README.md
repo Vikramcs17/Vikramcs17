@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Tech, Gaming and Cricket**
 
-- 🕹️ Watch my portfolio at **Vikram-gupta.me**
+- 🕹️ Watch my portfolio at [**Vikram-gupta.me**](https://vikram-gupta.me)
 
 - 📫 How to reach me **Vikram.guptacs17@gmail.com**
 
