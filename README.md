@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **Tech, Gaming and Cricket**
 
+- 🕹️ Watch my portfolio at **Vikram-gupta.me**
+
 - 📫 How to reach me **Vikram.guptacs17@gmail.com**
 
 - ⚡Fun Fact *"When I'm not dominating in BGMI or Valorant, you can catch me watching cricket, hitting the gym, watching anime, or trying my luck at gambling. My life’s a mix of strategy, strength, and some calculated risks!"*
